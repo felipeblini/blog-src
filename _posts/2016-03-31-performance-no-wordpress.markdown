@@ -10,4 +10,3 @@ feature-img: "img/sample_feature_img.png"
 ---
 
 Performance on Wordpress
-========================

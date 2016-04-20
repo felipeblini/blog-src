@@ -7,10 +7,10 @@
 
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://felipeblini.net" # the base hostname & protocol for your site
+url: "http://yoursite.com" # the base hostname & protocol for your site
 
-title:  Felipe Blini - Angular Developer and Consultant
-email: contato@felipeblini.net
+title:  Your Site's Name
+email: your-email
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -49,7 +49,7 @@ resources:
 
 theme:
     # Scripts
-    disqus_shortname: felipeblini
+    disqus_shortname: #your-discus
     katex: false # Enable if using math markup
     fontawesome: true
 
@@ -57,9 +57,9 @@ theme:
     # Open the "_sass > base" folder, and open "_variables.scss"
     google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
     
-    email: "felipeblini@felipeblini.net"
-    whatsapp: "+61 0 431 159 469"
-    skype: "blini_bra"
+    email: "your contact email"
+    whatsapp: "your whatsapp"
+    skype: "your skype"
 
 # PAGINATION
 # paginate: 5
